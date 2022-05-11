@@ -1,0 +1,23 @@
+{
+  "price": 0.02,
+  "number": 2,
+  "gatekeeper": null,
+  "solTreasuryAccount": null,
+  "splTokenAccount": null,
+  "splToken": null,
+  "goLiveDate": "28 Apr 2022 13:00:00 CST",
+  "endSettings": null,
+  "whitelistMintSettings": {
+    "mode" : { "burnEveryTime": true },
+    "mint" : "<MINT>",
+    "presale" : false,
+    "discountPrice" : null
+  },
+  "hiddenSettings": null,
+  "storage": "nft-storage",
+  "ipfsInfuraProjectId": null,
+  "ipfsInfuraSecret": null,
+  "awsS3Bucket": null,
+  "noRetainAuthority": false,
+  "noMutable": false
+}
